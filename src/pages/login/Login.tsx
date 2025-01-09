@@ -1,5 +1,5 @@
 import { useForm } from "react-hook-form"
-import starwars from "../../assets/login.png"
+import starwars from "../../assets/logo.png"
 import { loginSchema, LoginSchema } from "./login-validation"
 import { zodResolver } from "@hookform/resolvers/zod"
 import { LoginPayloadType } from "./login-types"
